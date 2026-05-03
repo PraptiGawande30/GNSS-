@@ -45,14 +45,14 @@ GNN/
 
 
 ▶️ How to Run
-1. Create Virtual Environment
+1. Create Virtual Environment : 
 python -m venv .venv
 
-2. Activate Environment
+2. Activate Environment : 
 .venv\Scripts\activate
 
-3. Install Dependencies
+3. Install Dependencies : 
 pip install -r requirements.txt
 
-4. Run Application
+4. Run Application : 
 python GNN.py
