@@ -37,8 +37,8 @@ Pandas (Data handling)
 TkCalendar
 
 📁 Project Structure
-GNN/
-│── GNN.py
+GNSS/
+│── GNSS.py
 │── requirements.txt
 │── README.md
 │── .venv/
@@ -55,4 +55,4 @@ python -m venv .venv
 pip install -r requirements.txt
 
 4. Run Application : 
-python GNN.py
+python GNSS.py
